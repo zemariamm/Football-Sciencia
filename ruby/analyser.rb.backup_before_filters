@@ -1,0 +1,353 @@
+require 'java'
+
+require '/Users/zemariamm/workspace/mestrado/soccer/SoccerScope2src-old/SoccerScope2/soccer.jar'
+require 'swing-layout-1.0.1.jar'
+
+include_class "soccerscope.file.LogFileReader"
+include_class "soccerscope.model.SceneSet"
+include_class "soccerscope.model.SceneSetMaker"
+include_class "java.util.ArrayList"
+include_class "soccerscope.model.GameEvent"
+
+include_class "soccerscope.SoccerScope"
+
+require 'soccerextended.rb'
+
+require 'rubygems'
+require 'cheri/swing'
+include Cheri::Swing
+
+=begin
+#f = LogFileReader.new("teste.rcg")
+f = LogFileReader.new("teste13.rcg")
+
+sceneSet = SceneSet.new
+
+ssm = SceneSetMaker.new(f, sceneSet)
+ssm.start()
+ssm.join
+
+game_events = sceneSet.getEventList
+scenes = sceneSet.sceneList
+puts "Number of scenes:"
+puts scenes.size
+
+Statistics.set_scenes(scenes)
+
+#Statistics.add_event_class(PassMiss)
+#Statistics.add_event_class(PassShort)
+#Statistics.add_event_class(PassLong)
+#Statistics.add_event_class(Shoot)
+#Statistics.add_event_class(ShootIntercepted)
+#Statistics.add_event_class(ShootTarget)
+#Statistics.add_event_class(Goal)
+#Statistics.add_event_class(Outside)
+#Statistics.add_event_class(Offside)
+#Statistics.add_event_class(OffsideIntercept)
+Statistics.process
+
+#Statistics.gamestate.print_goals
+=end
+
+include_class "soccerscope.model.WorldModel"
+@cbitems = []
+@allitems = []
+
+#ed = swing.editor_pane
+
+class MouseJList # MouseListener
+  attr_accessor :cbitems, :main_window
+  def mouseClicked(e)
+    puts "DEBUG - MOUSECLICKED!!!"
+    list = e.getSource
+    index = list.locationToIndex(e.getPoint)
+    # p self.cbitems
+    # p index
+    time = self.cbitems[index].time.to_i
+    self.main_window.jumpTo(time)
+  end
+
+  def mouseEntered(e)
+    # puts "mouseEntered"
+  end
+
+  def mouseExited(e)
+    # puts "mouseExited"
+  end
+
+  def mousePressed(e)
+    # puts "mousePressed"
+  end
+
+  def mouseReleased(e)
+    # puts "mouseReleased"
+  end
+
+  def setObject(obj)
+    obj.addMouseListener(self)
+  end
+end
+
+
+@lism = swing.default_list_model
+@jl = swing.list(@lism)
+@mousel = MouseJList.new
+@mousel.setObject(@jl)
+
+class SelectTeam 
+  attr_accessor :allitems ,:lism, :display
+  def actionPerformed(e)
+    obj = e.getSource
+    item = obj.getSelectedItem
+    #puts "ITEM SELECIONADO: " + item.to_s
+    left_team = -1
+    right_team = 1
+    both_teans = 2
+    if item.to_s == "Left Team"
+      its = @allitems.find_all { |data| data.team == -1 }
+      its.sort! {|a,b| a.time <=> b.time }
+      self.display.cbitems = its
+      load_combo_items(its)
+    elsif item.to_s == "Right Team"
+      its = @allitems.find_all { |data| data.team == 1 }
+      its.sort! {|a,b| a.time <=> b.time }
+      self.display.cbitems = its
+      load_combo_items(its)
+    else
+      self.display.cbitems = @allitems
+      load_combo_items(@allitems)
+    end
+  end
+end
+
+@cbaction = SelectTeam.new
+@cbaction.display = @mousel
+@cbaction.allitems = @allitems
+@cbaction.lism = @lism
+def load_combo_items(items)
+  @lism.clear
+  items.sort! { |a,b| a.time <=> b.time }
+  @cblist = items
+  items.each do |data|
+    @lism.addElement(data.message.to_s + " - " + data.time.to_s) if data.message != true
+  end
+end
+
+
+def process(sceneset)
+=begin
+  puts str.class
+  f = LogFileReader.new(str)
+
+  sceneSet = SceneSet.new
+
+  ssm = SceneSetMaker.new(f, sceneSet)
+  ssm.start()
+  ssm.join
+
+  game_events = sceneSet.getEventList
+
+=end
+  scenes = sceneset.sceneList
+  # scenes = sceneSet.sceneList
+  
+  puts "Number of scenes:"
+  puts scenes.size
+
+  Statistics.set_scenes(scenes)
+
+  #Statistics.add_event_class(PassMiss)
+  #Statistics.add_event_class(PassShort)
+  #Statistics.add_event_class(PassLong)
+  #Statistics.add_event_class(Shoot)
+  #Statistics.add_event_class(ShootIntercepted)
+  #Statistics.add_event_class(ShootTarget)
+  Statistics.add_event_class(Goal)
+  #Statistics.add_event_class(Outside)
+  Statistics.add_event_class(Offside)
+  Statistics.add_event_class(OffsideIntercept)
+  Statistics.process
+
+  puts "Starting..."
+  events = Statistics.get_events
+  @allitems = []
+  events.each do |data|
+    #lism.addElement(data[0] + " - " + data[1].to_s)
+    #p data
+    # message != true - stupid hack
+    @cbitems << data
+    @allitems << data
+    #lism.addElement(data.message.to_s + " - " + data.time.to_s) if data.message != true
+  end
+  @cbitems.sort! {|a,b| a.time <=> b.time }
+  @allitems.sort! {|a,b| a.time <=> b.time }
+  #Statistics.gamestate.print_goals
+  @cbaction.allitems = @allitems
+  @mousel.cbitems = @allitems
+
+  load_combo_items(@cbitems)
+end
+
+puts "a criar a interface"
+include_class "soccerscope.view.ScopePane"
+include_class "soccerscope.view.ScopePane"
+include_class "soccerscope.view.StatusBar"
+include_class "soccerscope.view.ScenePlayer"
+include_class "soccerscope.SoccerScopeMenuBar"
+include_class "soccerscope.view.layer.DynamicSpineLayer"
+
+scope = SoccerScope.new
+@mousel.main_window = scope
+spane = scope.getScopePane
+force_viewer = spane.getDynamicSpineLayer
+force_viewer.toogleState() # by default show force model
+menu_bar = scope.getSoccerScopeMenuBar # SoccerScopeMenuBar.new(scope)
+status_bar = scope.getStatusBar# StatusBar.new(spane)
+scene_player = scope.getScenePlayer# ScenePlayer.new(spane,status_bar,false)
+tool_bar = scope.getSoccerScopeToolBar
+scope.visible = false
+swing[:auto]
+
+############ FORCE MODEL CONTROLLER ##################
+fforce = swing.frame do |f|
+  size 200,200
+  box_layout f, :Y_AXIS
+  button('Toogle Force Model') { |d|
+    on_click { force_viewer.toogleState() }
+  }
+  button('Toogle Teams') {
+    on_click { force_viewer.toogleTeams() }
+  }
+end
+fforce.pack
+fforce.visible = true
+
+############################## Event Listener controller ##############################
+include_class "java.awt.BorderLayout"
+
+listevents = ["PassMiss","PassShort","PassLong","Shoot","ShootIntercepted","ShootTarget","Goal","Outside","Offside","OffsideIntercept"]
+
+class CheckBoxController 
+  def itemStateChanged(e)
+    obj = e.getItemSelectable
+    puts obj.getLabel
+  end
+end
+checkcontroller = CheckBoxController.new
+
+checkboxs = swing.frame do |f|
+  size 300, 300
+  box_layout f, :Y_AXIS
+  listevents.each do |checkevent|
+    checkbox(checkevent,true) { |c| c.addItemListener(checkcontroller) }
+  end
+
+end
+checkboxs.pack
+checkboxs.visible = true
+
+
+
+############################## TAB PANEL AND SUB-PANELS ##############################
+
+# Statistics
+jpanel1 = swing.panel
+
+jpanel_viewer = cherify(spane)
+
+aux_panel = swing.panel
+split_panel_aux = swing.split_pane {|pan|
+  pan.setOrientation(javax.swing.JSplitPane::VERTICAL_SPLIT)
+  setLeftComponent(cherify(scene_player))
+  setRightComponent(cherify(tool_bar))
+}
+
+aux_panel.add split_panel_aux
+jpanel_controls = cherify(aux_panel)
+
+# Animation
+splitpane1 = swing.split_pane { |tab|
+  tab.setOrientation(javax.swing.JSplitPane::VERTICAL_SPLIT)
+  setLeftComponent(jpanel_viewer)
+  setRightComponent(jpanel_controls)
+}
+
+
+# Tables & Charts
+splitpane2 = swing.split_pane { |tab|
+  tab.setOrientation(javax.swing.JSplitPane::VERTICAL_SPLIT)
+}
+
+
+############################## RIGHT TAB - EVENT ##############################
+
+
+
+
+sp = swing.scroll_pane { |pan|
+  pan.setViewportView(@jl)
+}
+# default_list_model
+
+
+cb = swing.combo_box(["Both Teams","Left Team", "Right Team"].to_java)
+cb.addActionListener(@cbaction)
+#cb = swing.combo_box
+#cb.setModel(javax.swing.DefaultComboBoxModel(["Both Teams","Left Team", "Right Team"]))
+
+#cb.setModel(javax.swing.DefaultComboBoxModel())
+
+
+right_panel = swing.panel {|p|
+  # p.setForeground(java.awt.Color.black)
+  # p.setBackground(java.awt.Color.black)
+}
+
+layout_right_panel = org.jdesktop.layout.GroupLayout.new(right_panel);
+right_panel.setLayout(layout_right_panel)
+
+layout_right_panel.setHorizontalGroup(layout_right_panel.createParallelGroup(org.jdesktop.layout.GroupLayout::LEADING).add(layout_right_panel.createSequentialGroup().add(sp,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE, 300, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE)).add(layout_right_panel.createSequentialGroup().add(cb,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE, 300, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE).addContainerGap))
+
+
+layout_right_panel.setVerticalGroup(layout_right_panel.createParallelGroup(org.jdesktop.layout.GroupLayout::LEADING).add(layout_right_panel.createSequentialGroup().addContainerGap().add(cb,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE, 20, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE).add(sp,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE, 630, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE).addContainerGap))
+
+
+############################## GLOBAL PANEL ##############################
+@frame = swing.frame('Scientia Football') { |f|
+
+
+  tabbedpane = swing.tabbed_pane
+  tabbedpane.addTab("Animation",splitpane1.java_object)
+  tabbedpane.addTab("Statistics",jpanel1.java_object)
+  tabbedpane.addTab("Tables & Charts",splitpane2.java_object)
+
+  layout = org.jdesktop.layout.GroupLayout.new(f.getContentPane());
+
+  layout.setHorizontalGroup(layout.createParallelGroup(org.jdesktop.layout.GroupLayout::LEADING).add(layout.createSequentialGroup().add(tabbedpane, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE, 800, org.jdesktop.layout.GroupLayout::PREFERRED_SIZE).addPreferredGap(org.jdesktop.layout.LayoutStyle::RELATED, 5, 10).add(right_panel,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE,300,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE).addContainerGap()))
+
+  layout.setVerticalGroup(layout.createParallelGroup(org.jdesktop.layout.GroupLayout::LEADING).add(org.jdesktop.layout.GroupLayout::TRAILING, tabbedpane, org.jdesktop.layout.GroupLayout::DEFAULT_SIZE, 469, 500).add(right_panel,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE,630,org.jdesktop.layout.GroupLayout::PREFERRED_SIZE))
+  
+  f.getContentPane().setLayout(layout);
+
+  menu_bar { 
+    menu('File') {  
+      menu_item('Ola') { 
+        on_click do
+          fc = swing.file_chooser
+          fc.showOpenDialog(f.java_object)
+          file = fc.getSelectedFile
+          sceneset = scope.loadFileStub(fc.java_object)
+          process(sceneset)
+          #process(sceneset)
+          #process(file.getPath)
+        end
+      }
+      menu_item('Exit') {
+        on_click{ @frame.dispose }
+      }
+    }}
+
+  # f.add(tabbedpane.java_object,java.awt.BorderLayout::CENTER)
+}
+@frame.pack
+@frame.visible = true

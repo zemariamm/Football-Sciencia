@@ -1,0 +1,2 @@
+require 'java'
+require 'require /Users/zemariamm/workspace/mestrado/soccer/SoccerScope2src-old/SoccerScope2/soccer.jar'

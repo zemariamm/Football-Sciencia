@@ -1,0 +1,12 @@
+package pattern;
+
+public class TimeExtractor implements Extractor{
+
+    public TimeExtractor(String aregx) {
+	super(aregx);
+    }
+
+    public Object [] bind(str) {
+	
+
+    }

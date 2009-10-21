@@ -1,0 +1,4379 @@
+(in /Users/zemariamm/workspace/mestrado/soccer/2d)
+a criar a interface
+Number of scenes:
+6483
+Calculating players velocity
+Finished 
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+GameState
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 11 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 7 from team: -1
+By team
+-1
+#<SoccerConstants::SoccerRegion:0x7aa3a8 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8061 @java_object=(-52.5, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x8e8e36 @java_object=(-54.3, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0x1a88d9 @java_object=(-52.5, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xe612d @java_object=(-54.3, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+Goal from player 10 from team: 1
+By team
+1
+#<SoccerConstants::SoccerRegion:0x99f41 @pointsr=#<Java::SoccerscopeUtilGeom::Point2f:0xb683b5 @java_object=(54.300003, -9.15)>, @pointil=#<Java::SoccerscopeUtilGeom::Point2f:0x81024a @java_object=(52.5, 9.150002)>, @pointir=#<Java::SoccerscopeUtilGeom::Point2f:0xbd77b8 @java_object=(54.300003, 9.150002)>, @pointsl=#<Java::SoccerscopeUtilGeom::Point2f:0xfede3b @java_object=(52.5, -9.15)>>
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+This cannot be calculated at: 107
+This cannot be calculated at: 388
+This cannot be calculated at: 404
+This cannot be calculated at: 418
+This cannot be calculated at: 525
+SHOOT !!!! at: 651
+This cannot be calculated at: 847
+This cannot be calculated at: 895
+This cannot be calculated at: 912
+This cannot be calculated at: 974
+This cannot be calculated at: 982
+SHOOT !!!! at: 1240
+This cannot be calculated at: 1352
+This cannot be calculated at: 1433
+SHOOT !!!! at: 1504
+This cannot be calculated at: 1709
+This cannot be calculated at: 1861
+SHOOT !!!! at: 2664
+SHOOT !!!! at: 3041
+This cannot be calculated at: 3158
+This cannot be calculated at: 3338
+This cannot be calculated at: 3755
+This cannot be calculated at: 3813
+This cannot be calculated at: 4048
+This cannot be calculated at: 4070
+This cannot be calculated at: 4072
+This cannot be calculated at: 4085
+This cannot be calculated at: 4210
+SHOOT W ONLY 2 POINTS!4389 from: 7
+This cannot be calculated at: 4889
+This cannot be calculated at: 4906
+SHOOT !!!! at: 4912
+SHOOT !!!! at: 5189
+This cannot be calculated at: 5235
+This cannot be calculated at: 5259
+This cannot be calculated at: 5399
+This cannot be calculated at: 5421
+This cannot be calculated at: 5463
+This cannot be calculated at: 5855
+This cannot be calculated at: 5909
+This cannot be calculated at: 5942
+Nao se concretizou o remate a baliza at: 79 pela equipa 1
+This cannot be calculated at: 107
+Nao se concretizou o remate a baliza at: 174 pela equipa 1
+Nao se concretizou o remate a baliza at: 205 pela equipa -1
+Nao se concretizou o remate a baliza at: 274 pela equipa 1
+Nao se concretizou o remate a baliza at: 285 pela equipa -1
+This cannot be calculated at: 388
+This cannot be calculated at: 404
+This cannot be calculated at: 418
+This cannot be calculated at: 525
+Nao se concretizou o remate a baliza at: 561 pela equipa 1
+Nao se concretizou o remate a baliza at: 605 pela equipa -1
+Nao se concretizou o remate a baliza at: 651 pela equipa -1
+Nao se concretizou o remate a baliza at: 785 pela equipa 1
+Nao se concretizou o remate a baliza at: 808 pela equipa -1
+Nao se concretizou o remate a baliza at: 817 pela equipa 1
+This cannot be calculated at: 847
+This cannot be calculated at: 895
+This cannot be calculated at: 912
+This cannot be calculated at: 974
+This cannot be calculated at: 982
+Nao se concretizou o remate a baliza at: 1098 pela equipa -1
+Nao se concretizou o remate a baliza at: 1148 pela equipa 1
+Nao se concretizou o remate a baliza at: 1154 pela equipa -1
+Nao se concretizou o remate a baliza at: 1240 pela equipa -1
+This cannot be calculated at: 1352
+This cannot be calculated at: 1433
+Nao se concretizou o remate a baliza at: 1469 pela equipa -1
+Nao se concretizou o remate a baliza at: 1491 pela equipa -1
+Nao se concretizou o remate a baliza at: 1504 pela equipa 1
+This cannot be calculated at: 1709
+This cannot be calculated at: 1861
+Nao se concretizou o remate a baliza at: 1873 pela equipa 1
+Nao se concretizou o remate a baliza at: 1888 pela equipa 1
+Nao se concretizou o remate a baliza at: 1893 pela equipa -1
+Nao se concretizou o remate a baliza at: 1945 pela equipa -1
+Nao se concretizou o remate a baliza at: 2003 pela equipa 1
+Nao se concretizou o remate a baliza at: 2020 pela equipa -1
+Nao se concretizou o remate a baliza at: 2066 pela equipa 1
+Nao se concretizou o remate a baliza at: 2116 pela equipa 1
+Nao se concretizou o remate a baliza at: 2145 pela equipa 1
+Nao se concretizou o remate a baliza at: 2160 pela equipa -1
+Nao se concretizou o remate a baliza at: 2246 pela equipa 1
+Nao se concretizou o remate a baliza at: 2337 pela equipa -1
+Nao se concretizou o remate a baliza at: 2411 pela equipa 1
+Nao se concretizou o remate a baliza at: 2461 pela equipa 1
+Nao se concretizou o remate a baliza at: 2474 pela equipa 1
+Nao se concretizou o remate a baliza at: 2519 pela equipa -1
+Nao se concretizou o remate a baliza at: 2564 pela equipa 1
+Nao se concretizou o remate a baliza at: 2652 pela equipa -1
+Nao se concretizou o remate a baliza at: 2655 pela equipa 1
+Nao se concretizou o remate a baliza at: 2664 pela equipa -1
+Nao se concretizou o remate a baliza at: 2672 pela equipa 1
+Nao se concretizou o remate a baliza at: 2707 pela equipa 1
+Nao se concretizou o remate a baliza at: 2742 pela equipa -1
+Nao se concretizou o remate a baliza at: 2774 pela equipa 1
+Nao se concretizou o remate a baliza at: 2841 pela equipa -1
+Nao se concretizou o remate a baliza at: 2992 pela equipa 1
+Nao se concretizou o remate a baliza at: 3020 pela equipa -1
+Nao se concretizou o remate a baliza at: 3041 pela equipa 1
+Nao se concretizou o remate a baliza at: 3090 pela equipa -1
+This cannot be calculated at: 3158
+Nao se concretizou o remate a baliza at: 3219 pela equipa -1
+Nao se concretizou o remate a baliza at: 3242 pela equipa -1
+Nao se concretizou o remate a baliza at: 3292 pela equipa 1
+Nao se concretizou o remate a baliza at: 3320 pela equipa -1
+This cannot be calculated at: 3338
+Nao se concretizou o remate a baliza at: 3350 pela equipa -1
+Nao se concretizou o remate a baliza at: 3565 pela equipa -1
+Nao se concretizou o remate a baliza at: 3584 pela equipa 1
+This cannot be calculated at: 3755
+This cannot be calculated at: 3813
+Nao se concretizou o remate a baliza at: 3821 pela equipa -1
+Nao se concretizou o remate a baliza at: 3889 pela equipa 1
+Nao se concretizou o remate a baliza at: 3901 pela equipa -1
+Nao se concretizou o remate a baliza at: 3914 pela equipa 1
+Nao se concretizou o remate a baliza at: 4037 pela equipa -1
+This cannot be calculated at: 4048
+This cannot be calculated at: 4070
+This cannot be calculated at: 4072
+This cannot be calculated at: 4085
+Nao se concretizou o remate a baliza at: 4124 pela equipa -1
+Nao se concretizou o remate a baliza at: 4141 pela equipa 1
+Nao se concretizou o remate a baliza at: 4146 pela equipa -1
+Nao se concretizou o remate a baliza at: 4154 pela equipa 1
+Nao se concretizou o remate a baliza at: 4170 pela equipa -1
+This cannot be calculated at: 4210
+Nao se concretizou o remate a baliza at: 4220 pela equipa 1
+Nao se concretizou o remate a baliza at: 4276 pela equipa -1
+Nao se concretizou o remate a baliza at: 4288 pela equipa 1
+Nao se concretizou o remate a baliza at: 4393 pela equipa 1
+Nao se concretizou o remate a baliza at: 4469 pela equipa -1
+Nao se concretizou o remate a baliza at: 4566 pela equipa 1
+Nao se concretizou o remate a baliza at: 4712 pela equipa -1
+Nao se concretizou o remate a baliza at: 4839 pela equipa -1
+This cannot be calculated at: 4889
+This cannot be calculated at: 4906
+Nao se concretizou o remate a baliza at: 4912 pela equipa -1
+Nao se concretizou o remate a baliza at: 5019 pela equipa -1
+Nao se concretizou o remate a baliza at: 5032 pela equipa 1
+Nao se concretizou o remate a baliza at: 5068 pela equipa -1
+Nao se concretizou o remate a baliza at: 5134 pela equipa 1
+Nao se concretizou o remate a baliza at: 5189 pela equipa -1
+This cannot be calculated at: 5235
+This cannot be calculated at: 5259
+Nao se concretizou o remate a baliza at: 5312 pela equipa 1
+Nao se concretizou o remate a baliza at: 5342 pela equipa -1
+Nao se concretizou o remate a baliza at: 5384 pela equipa 1
+This cannot be calculated at: 5399
+This cannot be calculated at: 5421
+Nao se concretizou o remate a baliza at: 5427 pela equipa -1
+This cannot be calculated at: 5463
+Nao se concretizou o remate a baliza at: 5556 pela equipa 1
+Nao se concretizou o remate a baliza at: 5759 pela equipa 1
+Nao se concretizou o remate a baliza at: 5774 pela equipa -1
+This cannot be calculated at: 5855
+This cannot be calculated at: 5909
+This cannot be calculated at: 5942
+From: 10 at: 3 to 7 at: 14
+YES!!!!
+From: 7 at: 13 to 6 at: 24
+YES!!!!
+From: 6 at: 24 to 11 at: 38
+YES!!!!
+From: 9 at: 102 to 7 at: 108
+YES!!!!
+From: 4 at: 123 to 8 at: 132
+YES!!!!
+From: 8 at: 133 to 11 at: 138
+YES!!!!
+From: 11 at: 145 to 10 at: 155
+YES!!!!
+From: 10 at: 154 to 11 at: 175
+YES!!!!
+From: 8 at: 212 to 11 at: 221
+YES!!!!
+From: 11 at: 263 to 7 at: 271
+YES!!!!
+From: 7 at: 270 to 9 at: 275
+YES!!!!
+From: 5 at: 322 to 8 at: 334
+YES!!!!
+From: 8 at: 338 to 7 at: 359
+YES!!!!
+From: 7 at: 373 to 11 at: 389
+YES!!!!
+From: 2 at: 394 to 6 at: 405
+YES!!!!
+From: 6 at: 469 to 9 at: 483
+YES!!!!
+From: 9 at: 492 to 7 at: 501
+YES!!!!
+From: 7 at: 505 to 9 at: 511
+YES!!!!
+From: 9 at: 530 to 10 at: 544
+YES!!!!
+From: 10 at: 554 to 11 at: 562
+YES!!!!
+From: 9 at: 586 to 7 at: 595
+YES!!!!
+From: 7 at: 594 to 10 at: 603
+YES!!!!
+From: 1 at: 711 to 2 at: 721
+YES!!!!
+From: 2 at: 720 to 7 at: 726
+YES!!!!
+From: 7 at: 725 to 9 at: 735
+YES!!!!
+From: 9 at: 736 to 10 at: 748
+YES!!!!
+From: 10 at: 763 to 9 at: 771
+YES!!!!
+From: 3 at: 794 to 8 at: 806
+YES!!!!
+From: 3 at: 824 to 8 at: 832
+YES!!!!
+From: 8 at: 831 to 11 at: 845
+YES!!!!
+From: 5 at: 858 to 9 at: 865
+YES!!!!
+From: 9 at: 869 to 7 at: 872
+YES!!!!
+From: 7 at: 871 to 9 at: 875
+YES!!!!
+From: 9 at: 885 to 6 at: 891
+YES!!!!
+From: 6 at: 926 to 7 at: 935
+YES!!!!
+From: 4 at: 964 to 8 at: 975
+YES!!!!
+From: 1 at: 1092 to 4 at: 1099
+YES!!!!
+From: 4 at: 1111 to 11 at: 1121
+YES!!!!
+From: 7 at: 1191 to 10 at: 1204
+YES!!!!
+From: 10 at: 1217 to 9 at: 1230
+YES!!!!
+From: 9 at: 1230 to 10 at: 1241
+YES!!!!
+From: 5 at: 1268 to 8 at: 1282
+YES!!!!
+From: 8 at: 1283 to 11 at: 1297
+YES!!!!
+From: 11 at: 1300 to 10 at: 1310
+YES!!!!
+From: 10 at: 1309 to 11 at: 1316
+YES!!!!
+From: 11 at: 1315 to 10 at: 1327
+YES!!!!
+From: 10 at: 1339 to 11 at: 1353
+YES!!!!
+From: 2 at: 1357 to 10 at: 1372
+YES!!!!
+From: 10 at: 1371 to 7 at: 1379
+YES!!!!
+From: 4 at: 1381 to 8 at: 1388
+YES!!!!
+From: 8 at: 1388 to 6 at: 1396
+YES!!!!
+From: 6 at: 1411 to 10 at: 1421
+YES!!!!
+From: 5 at: 1447 to 9 at: 1457
+YES!!!!
+From: 9 at: 1460 to 8 at: 1470
+YES!!!!
+From: 1 at: 1588 to 2 at: 1599
+YES!!!!
+From: 2 at: 1600 to 9 at: 1618
+YES!!!!
+From: 9 at: 1635 to 10 at: 1647
+YES!!!!
+From: 10 at: 1646 to 9 at: 1654
+YES!!!!
+From: 9 at: 1653 to 10 at: 1662
+YES!!!!
+From: 10 at: 1672 to 9 at: 1688
+YES!!!!
+From: 9 at: 1698 to 10 at: 1707
+YES!!!!
+From: 1 at: 1855 to 3 at: 1861
+YES!!!!
+From: 9 at: 1880 to 10 at: 1889
+YES!!!!
+From: 2 at: 1909 to 7 at: 1916
+YES!!!!
+From: 5 at: 1921 to 9 at: 1934
+YES!!!!
+From: 9 at: 1937 to 10 at: 1946
+YES!!!!
+From: 8 at: 1992 to 11 at: 2000
+YES!!!!
+From: 5 at: 2025 to 7 at: 2029
+YES!!!!
+From: 7 at: 2028 to 6 at: 2034
+YES!!!!
+From: 6 at: 2035 to 9 at: 2046
+YES!!!!
+From: 2 at: 2094 to 10 at: 2100
+YES!!!!
+From: 8 at: 2107 to 6 at: 2114
+YES!!!!
+From: 6 at: 2124 to 8 at: 2139
+YES!!!!
+From: 4 at: 2176 to 3 at: 2187
+YES!!!!
+From: 3 at: 2190 to 5 at: 2197
+YES!!!!
+From: 5 at: 2201 to 10 at: 2206
+YES!!!!
+From: 10 at: 2210 to 6 at: 2219
+YES!!!!
+From: 6 at: 2218 to 10 at: 2224
+YES!!!!
+From: 10 at: 2223 to 9 at: 2236
+YES!!!!
+From: 9 at: 2241 to 10 at: 2247
+YES!!!!
+From: 10 at: 2255 to 7 at: 2266
+YES!!!!
+From: 7 at: 2265 to 4 at: 2275
+YES!!!!
+From: 4 at: 2274 to 2 at: 2337
+YES!!!!
+From: 8 at: 2353 to 6 at: 2362
+YES!!!!
+From: 6 at: 2361 to 11 at: 2373
+YES!!!!
+From: 11 at: 2379 to 10 at: 2390
+YES!!!!
+From: 10 at: 2397 to 11 at: 2409
+YES!!!!
+From: 10 at: 2420 to 8 at: 2435
+YES!!!!
+From: 8 at: 2447 to 11 at: 2459
+YES!!!!
+From: 2 at: 2500 to 7 at: 2517
+YES!!!!
+From: 4 at: 2533 to 3 at: 2542
+YES!!!!
+From: 3 at: 2545 to 8 at: 2556
+YES!!!!
+From: 8 at: 2555 to 3 at: 2565
+YES!!!!
+From: 2 at: 2583 to 7 at: 2606
+YES!!!!
+From: 7 at: 2622 to 9 at: 2634
+YES!!!!
+From: 9 at: 2643 to 10 at: 2653
+YES!!!!
+From: 6 at: 2710 to 4 at: 2718
+YES!!!!
+From: 4 at: 2718 to 10 at: 2733
+YES!!!!
+From: 2 at: 2755 to 7 at: 2763
+YES!!!!
+From: 9 at: 2785 to 11 at: 2798
+YES!!!!
+From: 11 at: 2797 to 9 at: 2817
+YES!!!!
+From: 9 at: 2816 to 11 at: 2819
+YES!!!!
+From: 11 at: 2818 to 9 at: 2822
+YES!!!!
+From: 9 at: 2821 to 11 at: 2824
+YES!!!!
+From: 2 at: 2925 to 7 at: 2931
+YES!!!!
+From: 7 at: 2930 to 9 at: 2939
+YES!!!!
+From: 9 at: 2938 to 7 at: 2947
+YES!!!!
+From: 7 at: 2946 to 9 at: 2954
+YES!!!!
+From: 9 at: 2965 to 10 at: 2978
+YES!!!!
+From: 10 at: 2982 to 9 at: 2993
+YES!!!!
+From: 5 at: 2995 to 4 at: 3002
+YES!!!!
+From: 4 at: 3001 to 9 at: 3014
+YES!!!!
+From: 9 at: 3013 to 8 at: 3021
+YES!!!!
+From: 10 at: 3033 to 11 at: 3039
+YES!!!!
+From: 7 at: 3049 to 2 at: 3091
+YES!!!!
+From: 4 at: 3100 to 8 at: 3110
+YES!!!!
+From: 8 at: 3113 to 11 at: 3116
+YES!!!!
+From: 11 at: 3117 to 6 at: 3126
+YES!!!!
+From: 6 at: 3128 to 11 at: 3136
+YES!!!!
+From: 11 at: 3139 to 10 at: 3153
+YES!!!!
+From: 2 at: 3201 to 7 at: 3211
+YES!!!!
+From: 4 at: 3229 to 8 at: 3237
+YES!!!!
+From: 8 at: 3250 to 11 at: 3263
+YES!!!!
+From: 11 at: 3280 to 10 at: 3289
+YES!!!!
+From: 4 at: 3308 to 8 at: 3317
+YES!!!!
+From: 3 at: 3330 to 8 at: 3338
+YES!!!!
+From: 10 at: 3356 to 6 at: 3362
+YES!!!!
+From: 6 at: 3361 to 10 at: 3368
+YES!!!!
+From: 10 at: 3373 to 6 at: 3380
+YES!!!!
+From: 6 at: 3383 to 8 at: 3396
+YES!!!!
+From: 8 at: 3397 to 11 at: 3425
+YES!!!!
+From: 11 at: 3430 to 10 at: 3437
+YES!!!!
+From: 10 at: 3439 to 11 at: 3447
+YES!!!!
+From: 11 at: 3447 to 8 at: 3455
+YES!!!!
+From: 10 at: 3465 to 6 at: 3469
+YES!!!!
+From: 6 at: 3468 to 9 at: 3474
+YES!!!!
+From: 5 at: 3477 to 1 at: 3566
+YES!!!!
+From: 10 at: 3580 to 11 at: 3585
+YES!!!!
+From: 1 at: 3693 to 9 at: 3716
+YES!!!!
+From: 9 at: 3715 to 6 at: 3721
+YES!!!!
+From: 6 at: 3735 to 8 at: 3743
+YES!!!!
+From: 8 at: 3742 to 11 at: 3756
+YES!!!!
+From: 2 at: 3775 to 7 at: 3789
+YES!!!!
+From: 7 at: 3788 to 9 at: 3803
+YES!!!!
+From: 7 at: 3837 to 9 at: 3844
+YES!!!!
+From: 9 at: 3844 to 6 at: 3852
+YES!!!!
+From: 6 at: 3854 to 10 at: 3861
+YES!!!!
+From: 10 at: 3861 to 9 at: 3885
+YES!!!!
+From: 6 at: 3908 to 11 at: 3915
+YES!!!!
+From: 1 at: 3984 to 7 at: 4001
+YES!!!!
+From: 7 at: 4001 to 4 at: 4007
+YES!!!!
+From: 4 at: 4006 to 8 at: 4023
+YES!!!!
+From: 8 at: 4022 to 6 at: 4029
+YES!!!!
+From: 6 at: 4028 to 3 at: 4034
+YES!!!!
+From: 4 at: 4087 to 2 at: 4104
+YES!!!!
+From: 2 at: 4104 to 7 at: 4113
+YES!!!!
+From: 2 at: 4158 to 3 at: 4164
+YES!!!!
+From: 3 at: 4163 to 9 at: 4171
+YES!!!!
+From: 5 at: 4177 to 2 at: 4197
+YES!!!!
+From: 11 at: 4200 to 3 at: 4211
+YES!!!!
+From: 11 at: 4226 to 8 at: 4242
+YES!!!!
+From: 3 at: 4287 to 4 at: 4289
+YES!!!!
+From: 2 at: 4350 to 10 at: 4361
+YES!!!!
+From: 10 at: 4377 to 7 at: 4390
+YES!!!!
+From: 2 at: 4424 to 10 at: 4437
+YES!!!!
+From: 10 at: 4438 to 7 at: 4451
+YES!!!!
+From: 10 at: 4486 to 8 at: 4492
+YES!!!!
+From: 8 at: 4495 to 11 at: 4503
+YES!!!!
+From: 11 at: 4503 to 10 at: 4514
+YES!!!!
+From: 10 at: 4513 to 11 at: 4522
+YES!!!!
+From: 11 at: 4522 to 10 at: 4531
+YES!!!!
+From: 10 at: 4533 to 11 at: 4544
+YES!!!!
+From: 11 at: 4545 to 10 at: 4554
+YES!!!!
+From: 1 at: 4707 to 11 at: 4713
+YES!!!!
+From: 9 at: 4763 to 7 at: 4785
+YES!!!!
+From: 3 at: 4785 to 11 at: 4800
+YES!!!!
+From: 11 at: 4814 to 10 at: 4831
+YES!!!!
+From: 4 at: 4853 to 8 at: 4862
+YES!!!!
+From: 8 at: 4864 to 11 at: 4876
+YES!!!!
+From: 3 at: 4927 to 4 at: 4937
+YES!!!!
+From: 4 at: 4936 to 11 at: 4945
+YES!!!!
+From: 11 at: 4944 to 8 at: 4952
+YES!!!!
+From: 8 at: 4953 to 6 at: 4960
+YES!!!!
+From: 6 at: 4965 to 7 at: 4978
+YES!!!!
+From: 7 at: 4985 to 9 at: 4994
+YES!!!!
+From: 7 at: 5029 to 6 at: 5033
+YES!!!!
+From: 5 at: 5046 to 3 at: 5056
+YES!!!!
+From: 3 at: 5058 to 8 at: 5069
+YES!!!!
+From: 3 at: 5146 to 9 at: 5178
+YES!!!!
+From: 9 at: 5182 to 7 at: 5190
+YES!!!!
+From: 10 at: 5197 to 7 at: 5208
+YES!!!!
+From: 7 at: 5210 to 9 at: 5221
+YES!!!!
+From: 4 at: 5237 to 6 at: 5246
+YES!!!!
+From: 6 at: 5245 to 7 at: 5260
+YES!!!!
+From: 3 at: 5271 to 7 at: 5283
+YES!!!!
+From: 7 at: 5282 to 9 at: 5300
+YES!!!!
+From: 2 at: 5327 to 6 at: 5333
+YES!!!!
+From: 6 at: 5332 to 8 at: 5343
+YES!!!!
+From: 6 at: 5360 to 10 at: 5366
+YES!!!!
+From: 9 at: 5416 to 10 at: 5422
+YES!!!!
+From: 4 at: 5435 to 11 at: 5448
+YES!!!!
+From: 11 at: 5454 to 10 at: 5463
+YES!!!!
+From: 2 at: 5480 to 8 at: 5492
+YES!!!!
+From: 8 at: 5491 to 11 at: 5506
+YES!!!!
+From: 5 at: 5552 to 7 at: 5557
+YES!!!!
+From: 5 at: 5630 to 11 at: 5643
+YES!!!!
+From: 2 at: 5671 to 9 at: 5693
+YES!!!!
+From: 9 at: 5703 to 10 at: 5721
+YES!!!!
+From: 10 at: 5720 to 9 at: 5727
+YES!!!!
+From: 9 at: 5739 to 10 at: 5747
+YES!!!!
+From: 10 at: 5747 to 9 at: 5753
+YES!!!!
+From: 7 at: 5835 to 9 at: 5842
+YES!!!!
+From: 5 at: 5865 to 4 at: 5876
+YES!!!!
+From: 4 at: 5875 to 11 at: 5895
+YES!!!!
+From: 11 at: 5894 to 9 at: 5910
+YES!!!!
+From: 2 at: 5918 to 9 at: 5927
+YES!!!!
+From: 6 at: 5948 to 9 at: 5959
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:83 inicial: 80 Chutada pelo mano: 11
+YES!!!!
+No Sitio: RIGHT_OUTSIDE_RIGHT
+Bola Fora, Bola dentro at:204 inicial: 175 Chutada pelo mano: 11
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:567 inicial: 565 Chutada pelo mano: 11
+YES!!!!
+No Sitio: LEFT_LEFT_WING_FRONT
+Bola Fora, Bola dentro at:1991 inicial: 1955 Chutada pelo mano: 10
+YES!!!!
+No Sitio: LEFT_OUTSIDE_LEFT
+Bola Fora, Bola dentro at:2336 inicial: 2297 Chutada pelo mano: 4
+YES!!!!
+No Sitio: LEFT_OUTSIDE_LEFT
+Bola Fora, Bola dentro at:2621 inicial: 2620 Chutada pelo mano: 7
+YES!!!!
+No Sitio: LEFT_RIGHT_WING_MIDDLE
+Bola Fora, Bola dentro at:2924 inicial: 2840 Chutada pelo mano: 11
+YES!!!!
+No Sitio: LEFT_LEFT_WING_FRONT
+Bola Fora, Bola dentro at:3089 inicial: 3059 Chutada pelo mano: 7
+YES!!!!
+No Sitio: RIGHT_OUTSIDE_RIGHT
+Bola Fora, Bola dentro at:3200 inicial: 3171 Chutada pelo mano: 10
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:3476 inicial: 3475 Chutada pelo mano: 9
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:3920 inicial: 3919 Chutada pelo mano: 11
+YES!!!!
+No Sitio: LEFT_OUTSIDE_LEFT
+Bola Fora, Bola dentro at:4349 inicial: 4303 Chutada pelo mano: 4
+YES!!!!
+No Sitio: LEFT_OUTSIDE_RIGHT
+Bola Fora, Bola dentro at:5133 inicial: 5071 Chutada pelo mano: 8
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:5194 inicial: 5192 Chutada pelo mano: 7
+YES!!!!
+No Sitio: true
+Bola Fora, Bola dentro at:5388 inicial: 5386 Chutada pelo mano: 10
+YES!!!!
+No Sitio: LEFT_RIGHT_WING_MIDDLE
+Bola Fora, Bola dentro at:5629 inicial: 5570 Chutada pelo mano: 7
+YES!!!!
+From: 10 at: 3 to 7 at: 14
+From: 7 at: 13 to 6 at: 24
+From: 6 at: 24 to 11 at: 38
+From: 9 at: 102 to 7 at: 108
+From: 4 at: 123 to 8 at: 132
+From: 8 at: 133 to 11 at: 138
+From: 11 at: 145 to 10 at: 155
+From: 10 at: 154 to 11 at: 175
+From: 8 at: 212 to 11 at: 221
+From: 11 at: 263 to 7 at: 271
+From: 7 at: 270 to 9 at: 275
+From: 5 at: 322 to 8 at: 334
+From: 8 at: 338 to 7 at: 359
+From: 7 at: 373 to 11 at: 389
+From: 2 at: 394 to 6 at: 405
+From: 6 at: 469 to 9 at: 483
+From: 9 at: 492 to 7 at: 501
+From: 7 at: 505 to 9 at: 511
+From: 9 at: 530 to 10 at: 544
+From: 10 at: 554 to 11 at: 562
+From: 9 at: 586 to 7 at: 595
+From: 7 at: 594 to 10 at: 603
+From: 1 at: 711 to 2 at: 721
+From: 2 at: 720 to 7 at: 726
+From: 7 at: 725 to 9 at: 735
+From: 9 at: 736 to 10 at: 748
+From: 10 at: 763 to 9 at: 771
+From: 3 at: 794 to 8 at: 806
+From: 3 at: 824 to 8 at: 832
+From: 8 at: 831 to 11 at: 845
+From: 5 at: 858 to 9 at: 865
+From: 9 at: 869 to 7 at: 872
+From: 7 at: 871 to 9 at: 875
+From: 9 at: 885 to 6 at: 891
+From: 6 at: 926 to 7 at: 935
+YES!!!!
+From: 4 at: 964 to 8 at: 975
+From: 1 at: 1092 to 4 at: 1099
+From: 4 at: 1111 to 11 at: 1121
+From: 7 at: 1191 to 10 at: 1204
+From: 10 at: 1217 to 9 at: 1230
+From: 9 at: 1230 to 10 at: 1241
+From: 5 at: 1268 to 8 at: 1282
+From: 8 at: 1283 to 11 at: 1297
+From: 11 at: 1300 to 10 at: 1310
+From: 10 at: 1309 to 11 at: 1316
+From: 11 at: 1315 to 10 at: 1327
+From: 10 at: 1339 to 11 at: 1353
+From: 2 at: 1357 to 10 at: 1372
+From: 10 at: 1371 to 7 at: 1379
+From: 4 at: 1381 to 8 at: 1388
+From: 8 at: 1388 to 6 at: 1396
+From: 6 at: 1411 to 10 at: 1421
+From: 5 at: 1447 to 9 at: 1457
+From: 9 at: 1460 to 8 at: 1470
+From: 1 at: 1588 to 2 at: 1599
+From: 2 at: 1600 to 9 at: 1618
+From: 9 at: 1635 to 10 at: 1647
+From: 10 at: 1646 to 9 at: 1654
+From: 9 at: 1653 to 10 at: 1662
+From: 10 at: 1672 to 9 at: 1688
+From: 9 at: 1698 to 10 at: 1707
+From: 1 at: 1855 to 3 at: 1861
+From: 9 at: 1880 to 10 at: 1889
+From: 2 at: 1909 to 7 at: 1916
+From: 5 at: 1921 to 9 at: 1934
+From: 9 at: 1937 to 10 at: 1946
+From: 8 at: 1992 to 11 at: 2000
+From: 5 at: 2025 to 7 at: 2029
+From: 7 at: 2028 to 6 at: 2034
+From: 6 at: 2035 to 9 at: 2046
+From: 2 at: 2094 to 10 at: 2100
+From: 8 at: 2107 to 6 at: 2114
+From: 6 at: 2124 to 8 at: 2139
+From: 4 at: 2176 to 3 at: 2187
+From: 3 at: 2190 to 5 at: 2197
+From: 5 at: 2201 to 10 at: 2206
+From: 10 at: 2210 to 6 at: 2219
+From: 6 at: 2218 to 10 at: 2224
+From: 10 at: 2223 to 9 at: 2236
+From: 9 at: 2241 to 10 at: 2247
+From: 10 at: 2255 to 7 at: 2266
+From: 7 at: 2265 to 4 at: 2275
+From: 4 at: 2274 to 2 at: 2337
+From: 8 at: 2353 to 6 at: 2362
+From: 6 at: 2361 to 11 at: 2373
+From: 11 at: 2379 to 10 at: 2390
+From: 10 at: 2397 to 11 at: 2409
+From: 10 at: 2420 to 8 at: 2435
+From: 8 at: 2447 to 11 at: 2459
+From: 2 at: 2500 to 7 at: 2517
+From: 4 at: 2533 to 3 at: 2542
+From: 3 at: 2545 to 8 at: 2556
+From: 8 at: 2555 to 3 at: 2565
+From: 2 at: 2583 to 7 at: 2606
+From: 7 at: 2622 to 9 at: 2634
+From: 9 at: 2643 to 10 at: 2653
+From: 6 at: 2710 to 4 at: 2718
+From: 4 at: 2718 to 10 at: 2733
+From: 2 at: 2755 to 7 at: 2763
+From: 9 at: 2785 to 11 at: 2798
+From: 11 at: 2797 to 9 at: 2817
+From: 9 at: 2816 to 11 at: 2819
+From: 11 at: 2818 to 9 at: 2822
+From: 9 at: 2821 to 11 at: 2824
+From: 2 at: 2925 to 7 at: 2931
+From: 7 at: 2930 to 9 at: 2939
+From: 9 at: 2938 to 7 at: 2947
+From: 7 at: 2946 to 9 at: 2954
+From: 9 at: 2965 to 10 at: 2978
+From: 10 at: 2982 to 9 at: 2993
+From: 5 at: 2995 to 4 at: 3002
+From: 4 at: 3001 to 9 at: 3014
+From: 9 at: 3013 to 8 at: 3021
+From: 10 at: 3033 to 11 at: 3039
+From: 7 at: 3049 to 2 at: 3091
+From: 4 at: 3100 to 8 at: 3110
+From: 8 at: 3113 to 11 at: 3116
+From: 11 at: 3117 to 6 at: 3126
+From: 6 at: 3128 to 11 at: 3136
+From: 11 at: 3139 to 10 at: 3153
+From: 2 at: 3201 to 7 at: 3211
+From: 4 at: 3229 to 8 at: 3237
+From: 8 at: 3250 to 11 at: 3263
+From: 11 at: 3280 to 10 at: 3289
+From: 4 at: 3308 to 8 at: 3317
+From: 3 at: 3330 to 8 at: 3338
+From: 10 at: 3356 to 6 at: 3362
+From: 6 at: 3361 to 10 at: 3368
+From: 10 at: 3373 to 6 at: 3380
+From: 6 at: 3383 to 8 at: 3396
+From: 8 at: 3397 to 11 at: 3425
+From: 11 at: 3430 to 10 at: 3437
+From: 10 at: 3439 to 11 at: 3447
+From: 11 at: 3447 to 8 at: 3455
+From: 10 at: 3465 to 6 at: 3469
+From: 6 at: 3468 to 9 at: 3474
+From: 5 at: 3477 to 1 at: 3566
+From: 10 at: 3580 to 11 at: 3585
+From: 1 at: 3693 to 9 at: 3716
+From: 9 at: 3715 to 6 at: 3721
+From: 6 at: 3735 to 8 at: 3743
+From: 8 at: 3742 to 11 at: 3756
+From: 2 at: 3775 to 7 at: 3789
+From: 7 at: 3788 to 9 at: 3803
+From: 7 at: 3837 to 9 at: 3844
+From: 9 at: 3844 to 6 at: 3852
+From: 6 at: 3854 to 10 at: 3861
+From: 10 at: 3861 to 9 at: 3885
+From: 6 at: 3908 to 11 at: 3915
+From: 1 at: 3984 to 7 at: 4001
+From: 7 at: 4001 to 4 at: 4007
+From: 4 at: 4006 to 8 at: 4023
+From: 8 at: 4022 to 6 at: 4029
+From: 6 at: 4028 to 3 at: 4034
+From: 4 at: 4087 to 2 at: 4104
+From: 2 at: 4104 to 7 at: 4113
+From: 2 at: 4158 to 3 at: 4164
+From: 3 at: 4163 to 9 at: 4171
+From: 5 at: 4177 to 2 at: 4197
+From: 11 at: 4200 to 3 at: 4211
+From: 11 at: 4226 to 8 at: 4242
+From: 3 at: 4287 to 4 at: 4289
+From: 2 at: 4350 to 10 at: 4361
+From: 10 at: 4377 to 7 at: 4390
+From: 2 at: 4424 to 10 at: 4437
+From: 10 at: 4438 to 7 at: 4451
+From: 10 at: 4486 to 8 at: 4492
+From: 8 at: 4495 to 11 at: 4503
+From: 11 at: 4503 to 10 at: 4514
+From: 10 at: 4513 to 11 at: 4522
+From: 11 at: 4522 to 10 at: 4531
+From: 10 at: 4533 to 11 at: 4544
+From: 11 at: 4545 to 10 at: 4554
+From: 1 at: 4707 to 11 at: 4713
+From: 9 at: 4763 to 7 at: 4785
+From: 3 at: 4785 to 11 at: 4800
+From: 11 at: 4814 to 10 at: 4831
+From: 4 at: 4853 to 8 at: 4862
+From: 8 at: 4864 to 11 at: 4876
+From: 3 at: 4927 to 4 at: 4937
+From: 4 at: 4936 to 11 at: 4945
+From: 11 at: 4944 to 8 at: 4952
+From: 8 at: 4953 to 6 at: 4960
+From: 6 at: 4965 to 7 at: 4978
+From: 7 at: 4985 to 9 at: 4994
+From: 7 at: 5029 to 6 at: 5033
+From: 5 at: 5046 to 3 at: 5056
+From: 3 at: 5058 to 8 at: 5069
+From: 3 at: 5146 to 9 at: 5178
+From: 9 at: 5182 to 7 at: 5190
+From: 10 at: 5197 to 7 at: 5208
+From: 7 at: 5210 to 9 at: 5221
+From: 4 at: 5237 to 6 at: 5246
+From: 6 at: 5245 to 7 at: 5260
+From: 3 at: 5271 to 7 at: 5283
+From: 7 at: 5282 to 9 at: 5300
+From: 2 at: 5327 to 6 at: 5333
+From: 6 at: 5332 to 8 at: 5343
+From: 6 at: 5360 to 10 at: 5366
+From: 9 at: 5416 to 10 at: 5422
+From: 4 at: 5435 to 11 at: 5448
+From: 11 at: 5454 to 10 at: 5463
+From: 2 at: 5480 to 8 at: 5492
+From: 8 at: 5491 to 11 at: 5506
+From: 5 at: 5552 to 7 at: 5557
+From: 5 at: 5630 to 11 at: 5643
+From: 2 at: 5671 to 9 at: 5693
+From: 9 at: 5703 to 10 at: 5721
+From: 10 at: 5720 to 9 at: 5727
+From: 9 at: 5739 to 10 at: 5747
+From: 10 at: 5747 to 9 at: 5753
+From: 7 at: 5835 to 9 at: 5842
+From: 5 at: 5865 to 4 at: 5876
+From: 4 at: 5875 to 11 at: 5895
+From: 11 at: 5894 to 9 at: 5910
+From: 2 at: 5918 to 9 at: 5927
+From: 6 at: 5948 to 9 at: 5959
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+YES!!!!
+Starting...
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+Pass
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+PassMiss
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+Shoot
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+ShootIntercepted
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+ShootTarget
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+Goal
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+OffsideIntercept
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController
+Offside
+Debug: SelectTeam
+Calling filter for item:
+nil
+Debug: CheckBoxController

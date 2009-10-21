@@ -1,0 +1,7 @@
+require 'java'
+
+require '/Users/zemariamm/workspace/mestrado/soccer/SoccerScope2src-old/SoccerScope2/soccer.jar'
+
+
+ar = [[1,2,3,4].to_java(Java::int), [5,6,7,8].to_java(Java::int)]
+

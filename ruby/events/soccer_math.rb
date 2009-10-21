@@ -1,0 +1,146 @@
+module SoccerMath
+  
+  MAXIMUM_NUMBER_CYCLES_ROBOT_SOCCER = 105
+
+  def ball_2_traject(p1,p2)
+    incx = 1.0
+    incy = (p2.getY - p1.getY) / (p2.getX - p1.getX)
+    incy = incy.abs
+    diff1 = Point2f.new(incx,incy)
+    traject = Array.new
+    traject << p1 << p2
+    
+    last_point = p2
+
+    xsignal = -1
+    xsignal = 1 if p2.getX > p1.getX
+
+    ysignal = -1
+    ysignal = 1 if p2.getY > p1.getY
+    
+    last_diff = diff1
+    last_coq = last_diff
+
+    0.upto(MAXIMUM_NUMBER_CYCLES_ROBOT_SOCCER) do
+      x = last_point.getX
+      y = last_point.getY
+      if xsignal < 0
+        x = x - ( last_diff.getX * last_coq.getX )
+      else
+        x = x + ( last_diff.getX * last_coq.getX )
+      end
+      if ysignal < 0
+        y = y - ( last_diff.getY * last_coq.getY )
+      else
+        y = y + ( last_diff.getY * last_coq.getY )
+      end
+      new_point = Point2f.new(x,y)
+      traject << new_point
+      #last_diff = MathUtils.distance(last_point,new_point)
+      last_point = new_point
+    end
+    traject
+  end
+
+  def ball_traject(p1,p2,p3)
+    diff1 = MathUtils.coeficiente(p1,p2)
+    diff2 = MathUtils.coeficiente(p2,p3)
+    raise 'This cannot be calculated' if (diff2.getX > diff1.getX || diff2.getY > diff1.getY)
+    last_coq = diff2.dividePoint(diff1)
+    traject = Array.new
+    traject << p1 << p2 << p3
+    last_point = p3
+
+    xsignal = -1
+    xsignal = 1 if p3.getX > p2.getX
+
+    ysignal = -1
+    ysignal = 1 if p3.getY > p2.getY
+
+    last_diff = diff2
+    ncycles = 0
+    while (last_diff.getX > 0.1 || last_diff.getY > 0.1)
+      break if ncycles > MAXIMUM_NUMBER_CYCLES_ROBOT_SOCCER
+      x = last_point.getX
+      y = last_point.getY
+      if xsignal < 0
+        x = x - ( last_diff.getX * last_coq.getX )
+      else
+        x = x + ( last_diff.getX * last_coq.getX )
+      end
+      if ysignal < 0
+        y = y - ( last_diff.getY * last_coq.getY )
+      else
+        y = y + ( last_diff.getY * last_coq.getY )
+      end
+      new_point = Point2f.new(x,y)
+      traject << new_point
+      last_diff = MathUtils.distance(last_point,new_point)
+      last_point = new_point
+      ncycles = ncycles + 1
+      #puts "Diffx: " + last_diff.getX.to_s + " Diffy: " + last_diff.getY.to_s
+    end
+    traject
+  end
+
+
+  def line_intersect_region(ar_points,obj_region)
+    reversed = ar_points.reverse
+    return reversed.detect do |point_region|
+      current_reg = SoccerConstants.which_region?(point_region)
+      unless current_reg
+        false
+      else
+        if current_reg[1] == obj_region
+          true
+        else
+          #puts current_reg[1].to_s + " pretended: " + obj_region.to_s
+          false
+        end
+      end
+    end
+  end
+
+  def line_intersect_region_aux(ar_points,obj_region)
+    ar_points.detect do |point|
+      obj_region.belongs_to(point)
+    end
+  end
+
+  def intersect_outside_back?(ar_obj,attackteam)
+    reg = SoccerConstants::LEFT_OUTSIDE_BACK
+    if attackteam == "l"
+      reg = SoccerConstants::RIGHT_OUTSIDE_BACK
+    end
+    return line_intersect_region(ar_obj,reg)
+  end
+
+  def intersect_goal?(ar_obj,attackteam)
+    #reg = SoccerConstants::LEFT_PENALTY_BOX_BACK
+    reg = SoccerConstants::LEFT_GOAL
+    if attackteam == "l"
+      reg = SoccerConstants::RIGHT_GOAL
+    end
+    return line_intersect_region_aux(ar_obj,reg)
+  end
+  
+  def intersect_goal_wanswer(obj)
+    if SoccerConstants::LEFT_GOAL.belongs_to(obj)
+      return SoccerConstants::LEFT_GOAL
+    elsif SoccerConstants::RIGHT_GOAL.belongs_to(obj)
+      return SoccerConstants::RIGHT_GOAL
+    else
+      return false
+    end
+  end
+
+
+  def less_3_points?(iscene,fscene)
+    itime = iscene.getTime
+    ftime = fscene.getTime
+    return ftime <= itime + 1
+    # ou sera apenas ftime <= itime + 1 ?
+  end
+
+  
+end

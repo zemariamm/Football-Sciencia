@@ -1,0 +1,136 @@
+module SoccerUtils
+
+  def is_kicking?(scene1,scene2)
+    ball1  = scene1.getBall
+    ball2 = scene2.getBall
+    player_cball = ball1.closer(scene1.getPlayers)
+    player_fball = ball2.closer(scene2.getPlayers)
+    if MathUtils.ball_velocity_increasing?(scene1,scene2)
+      return player_cball
+    else
+      return nil
+    end
+  end
+
+  def inside_field?(obj)
+    field_obj = obj
+    #return !SoccerConstants.get_field_regions.detect do |reg|
+    #reg.belongs_to(field_obj.getPosition).nil?
+    #end
+    return !outside_field?(obj)
+  end
+
+  def outside_field?(obj)
+    field_obj = obj
+    if (obj.getPosition.getX <= -51 || obj.getPosition.getX >= 51) && 
+        (obj.getPosition.getY <= (SoccerConstants::YX + SoccerConstants::YN) || obj.getPosition.getY >= SoccerConstants::YF - (SoccerConstants::YX + SoccerConstants::YN))
+      return true
+    end
+
+    req = SoccerConstants.get_outside_field_regions.detect do |reg|
+      reg.belongs_to(field_obj.getPosition)
+    end
+    return req unless req
+    val = SoccerConstants::which_region?(obj)
+    return val[0]
+  end
+
+  def in_my_middle_field?(obj)
+    return SoccerConstants.get_mid_field(obj.getTeam).detect do |reg|
+      reg.belongs_to(obj.getPosition)
+    end
+  end
+
+  def who_kicked?(gamestate,time)
+    raise 'Gamestate a null!!!' unless gamestate
+    ctime2 = time
+    ctime = ctime2 - 1
+
+    while (ctime >= 0 && ctime2 >= 0)
+      scene1 = gamestate[ctime][:scene]
+      scene2 = gamestate[ctime2][:scene]
+      ball1  = scene1.getBall
+      ball2 = scene2.getBall
+      player_cball = ball1.closer(scene1.getPlayers)
+      player_fball = ball2.closer(scene2.getPlayers)
+      if MathUtils.ball_velocity_increasing?(scene1,scene2)
+        return player_cball
+      end
+      ctime = ctime - 1
+      ctime2 = ctime2 - 1
+    end
+    raise 'There was no kick!!!'
+  end
+
+  def get_first_momment_wball(gamestate,dest_player)
+    gamestaterev = gamestate.reverse
+    mommen = gamestaterev[0]
+    mommen.merge!(:region => SoccerConstants.which_region?(dest_player))
+    gamestaterev.each do |t|
+      ball = t[:scene].getBall
+      player_cball = ball.closer(t[:scene].getPlayers)
+      if  (player_cball.getNumber != dest_player.getNumber)
+        return mommen
+      elsif (player_cball.getTeam != dest_player.getTeam)
+        return mommen
+      else
+        mommen = t
+        mommen.merge!(:region => SoccerConstants.which_region?(ball))
+      end
+    end
+    return mommen
+  end
+
+  def get_attack_team(scene)
+    ball = scene.getBall
+    players = scene.getPlayers
+    pwball = ball.closer(players)
+    return pwball.getTeam
+  end
+
+  def get_player_for_scene(scene)
+    ball = scene.getBall
+    players = scene.getPlayers
+    pwball = ball.closer(players)
+    return pwball.getNumber
+  end
+
+  def same_team_diff_players(firstplayer,secondplayer)
+    return (firstplayer.getNumber != secondplayer.getNumber) && (firstplayer.getTeam == secondplayer.getTeam)
+  end
+  
+  def diff_teams_players(orig_player, dest_player)
+    return orig_player.getTeam != dest_player.getTeam
+  end
+  
+  def closest_players(ball_traj,players)
+    pdists = players.map do |player|
+      distances = ball_traj.collect { |ball_position| MathUtils.vector_module(MathUtils.distance(player.getPosition,ball_position).abs) }
+      [player,distances.min]
+    end
+    min = pdists.min { |a,b| a[1] <=> b[1] }
+    min[0]
+  end
+  
+  def load_ball(gamestate,time,&b)
+    ball1 = gamestate[time][:scene].getBall
+    ball2 = gamestate[time + 1][:scene].getBall
+    ball3 = gamestate[time + 2][:scene].getBall
+    return b.call(ball1,ball2,ball3)
+  end
+
+  def load_2_ball(gametstate,time,&b)
+    ball1 = gamestate[time][:scene].getBall
+    ball2 = gamestate[time + 1][:scene].getBall
+    return b.call(ball1,ball2)
+  end
+
+  def get_player_for(event)
+    scene = event[:scene]
+    ball = scene.getBall
+    players = scene.getPlayers
+    return ball.closer(players)
+  end
+
+  module_function :get_attack_team, :get_player_for_scene
+end

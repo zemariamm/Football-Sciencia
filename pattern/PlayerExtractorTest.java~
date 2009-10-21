@@ -1,0 +1,16 @@
+package pattern;
+import java.util.regex.*;
+
+import org.junit.*;
+import static org.junit.Assert.*;
+
+public class PlayerExtractorTest {
+    PlayerExtractor p;
+
+    public void testgetNumber(){
+	p = new PlayerExtractor("Tm l Pl  1 P(-49.1, -0.0) d -0 v( 0.35,-0.01) tp0 hd_a  2 (v_w 45/v_q1.0) st3890.00/ef1.000/rc1.0 Comm:dash say tneck");
+	System.out.println("Player number:" + p.getNumber());
+    }
+    
+
+}

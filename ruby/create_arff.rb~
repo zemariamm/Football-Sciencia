@@ -1,0 +1,7 @@
+require 'rubygems'
+require 'activerecord'
+require 'ar-extensions'
+
+require File.join(File.dirname(__FILE__)) + "/database_classes.rb"
+
+

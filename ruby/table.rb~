@@ -1,0 +1,18 @@
+require 'java'
+
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/gnujaxp.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/iText-2.1.3.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/jcommon-1.0.15.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/jfreechart-1.0.12-experimental.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/jfreechart-1.0.12-swt.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/jfreechart-1.0.12.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/servlet.jar'
+require '/Users/zemariamm/workspace/mestrado/soccer/2d/chartlib/swtgraphics2d.jar'
+
+require 'rubygems'
+require 'cheri/swing'
+include Cheri::Swing
+
+include_class "javax.swing.JFrame"
+include_class "javax.swing.JPanel"
+include_class "javax.swing.JTable"

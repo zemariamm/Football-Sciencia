@@ -1,0 +1,196 @@
+require 'rake_utils.rb'
+
+namespace :tests do
+  desc "compile player tests"
+  task :compile_player do
+    system("javac pattern/PlayerExtractorTest.java")
+  end
+
+
+  desc "compile time tests"
+  task :compile_time do
+    system("javac pattern/TimeExtractorTest.java")
+  end
+
+
+  desc "compile ball tests" 
+  task :compile_ball do
+    system("javac pattern/BallExtractorTest.java")
+  end
+
+
+  desc "compile all test"
+  task :compile => [:compile_player, :compile_time, :compile_ball]
+  
+  desc "Run all Ball tests"
+  task :run_ball do
+    system("java org.junit.runner.JUnitCore pattern.BallExtractorTest")
+  end
+
+  desc "Run all Time test"
+  task :run_time do
+    system("java org.junit.runner.JUnitCore pattern.TimeExtractorTest")
+  end
+
+  desc "Run all player tests"
+  task :run_player do
+    system("java org.junit.runner.JUnitCore pattern.PlayerExtractorTest")
+  end
+
+  desc "Run All Tests"
+  task :run => [:run_player,:run_time,:run_ball]
+
+
+  desc "Clean"
+  task :clean do
+    Dir.chdir("pattern")
+    Dir.entries(".").each do |file|
+      unless (file =~ /.*ExtractorTest.class/).nil?
+        File.delete(file)
+      end
+    end
+  end
+end
+
+namespace :main do
+
+  desc "Compile Main"
+  task :compile do
+    system("javac LogReader.java")
+  end
+  
+  desc "Run Main Program"
+  task :run do
+    system("java LogReader")
+  end
+
+  desc "Delete class files"
+  task :clean do
+    Dir.entries(".").each do |file|
+      unless (file =~ /.*.class/).nil?
+        file.delete(file)
+      end
+    end
+    Dir.chdir("pattern")
+    Dir.entries(".").each do |file|
+      unless (file =~ /.*[^Test].class/).nil?
+        file.delete(file)
+      end
+    end
+  end
+end
+
+#Soccer Scope DIR
+GUI_DIR = "/Users/zemariamm/workspace/mestrado/soccer/SoccerScope2src-old/SoccerScope2"
+INSTALL_DIR = GUI_DIR +  "/soccerscope/file"
+THIS_DIR = Dir.getwd
+
+namespace :gui do
+  #Soccer Scope DIR
+  #GUI_DIR = "/Users/zemariamm/workspace/mestrado/soccer/SoccerScope2src-old/SoccerScope2"
+  #INSTALL_DIR = GUI_DIR +  "/soccerscope/file"
+
+  desc "Intall necessary files on Japonese GUI" 
+  task :install_files => :clean  do
+    Dir.entries(".")
+    Dir.chdir("pattern")
+    new_files = []
+    our_lib = Dir.getwd
+    unless File.exists?(INSTALL_DIR)
+      puts "You need set the INSTALL_DIR varible to the place where you want the compiled files to go"
+      exit
+    end
+    unless File.exists?(INSTALL_DIR + "/pattern")
+      Dir.chdir(INSTALL_DIR)
+      Dir.mkdir("pattern")
+      Dir.chdir(our_lib)
+    end
+    
+    Dir.entries(".").each do |file|
+      # If it's the Util Lib
+      if file == "Util.java"
+        copy(our_lib + "/" + file, INSTALL_DIR + "/pattern")
+        new_files << INSTALL_DIR + "/pattern/" + file
+      end
+      #if it's an Extractor show it
+      unless (file =~ /.*Extractor.java/).nil? 
+        copy(our_lib + "/" + file, INSTALL_DIR + "/pattern")
+        new_files << INSTALL_DIR + "/pattern/" + file
+      end
+    end
+    package_re = /package[\s]+.*;/
+    new_package_str = "package soccerscope.file.pattern;"
+    new_files.each { |file| FileManagement::replace(file,package_re,new_package_str) }
+    Dir.chdir(THIS_DIR)
+  end
+
+
+  desc "Compile SoccerScope"
+  task :compile => :install_files do
+    Dir.chdir(GUI_DIR)
+    system("javac -classpath . -g -O -deprecation -target 1.5 -encoding EUCJIS  soccerscope/SoccerScope.java")
+    Dir.chdir(THIS_DIR)
+  end
+
+
+  desc "Run ScoccerScope"
+  task :run => :compile do
+    Dir.chdir(GUI_DIR)
+    system("java -Xms32m -Xmx512m soccerscope/SoccerScope")
+    Dir.chdir(THIS_DIR)
+  end
+
+  desc "Pack as jar"
+  task :pack => :compile do
+    Dir.chdir(GUI_DIR)
+    system("jar cfm soccer.jar Manifest.mf soccerscope/")
+  end
+
+  desc "Run soccer jar"
+  task :run_jar => :pack do
+    Dir.chdir(GUI_DIR)
+    system("java -jar soccer.jar")
+  end
+
+  desc "Clean SoccerScope files"
+  task :clean do
+    Dir.chdir(GUI_DIR)
+    system("rm `find . | grep \~` `find . | grep .class`")
+    Dir.chdir(THIS_DIR)
+  end
+
+  desc "Run jruby script"
+  task :jruby => :pack do
+    Dir.chdir(THIS_DIR + "/ruby")
+    system("jruby analyser.rb")
+  end
+  desc "Run jruby script WITHOUT compiling java source code - UNSAFE!!!"
+  task :jruby_no_compile do
+    Dir.chdir(THIS_DIR + "/ruby")
+    system("jruby analyser.rb")
+  end
+  
+end
+
+namespace :notes do
+  desc "Tarefas a fazer"
+  task :todo do
+    puts "Fazer com que regioes do campo, e balizas herdem de SoccerObjet, overriding do belongs_to"
+    puts "Ver soccerscope.model.PARAM"
+    puts "Falar com o abreu sobre os passes nao pode ser da maneira que a gente tinha pensado"
+    puts "porque a bola pode passar perto de um jogador mas nao lhe pertencer"
+  end
+end
+
+namespace :database do
+  require File.join(File.dirname(__FILE__)) + "/ruby/database.rb"
+  desc "Load tables to DB"
+  task :load do
+    Initial.migrate(:up)
+  end
+  desc "Clean DB"
+  task :clean do 
+    Initial.migrate(:down)
+  end
+end
+  

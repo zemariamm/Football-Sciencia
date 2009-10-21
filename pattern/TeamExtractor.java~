@@ -1,0 +1,15 @@
+package pattern;
+import java.util.regex.*;
+public class TeamExtractor implements Extractor{
+
+    
+    public Object extract(String str) throws Exception {
+	String[] res = Pattern.compile("[-]+Time\\s").split(str,0);
+	/* DEBUG CODE
+	for (int i = 0;i< res.length; ++i)
+	    System.out.println(res[i]);
+	DEBUG CODE */
+	String resposta = inBetween(str,"[-]+Time\\s","[-]+");
+	System.out.println("The answer is:" + resposta);
+	return resposta;
+    }
